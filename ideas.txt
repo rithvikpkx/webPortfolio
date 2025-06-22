@@ -1,0 +1,9 @@
+------ HTML & CSS ------
+1. Make a basic structure for the webpage (barebones skeleton)
+2. Fill out the skeleton with content
+------------------------
+
+
+------ JS ------
+3. Beautify with animations and sleek design
+----------------
